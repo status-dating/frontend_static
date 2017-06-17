@@ -335,13 +335,14 @@ body {
   #fh5co-hero {
     height: 450px;
   }
+}
 @media (max-width:640px) {
   section {
     background-attachment:initial;
   }
 }
 
-}
+
 #fh5co-hero .fh5co-overlay {
   position: absolute;
   top: 0;
